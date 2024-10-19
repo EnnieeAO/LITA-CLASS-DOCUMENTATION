@@ -1,5 +1,16 @@
 # LITA-CLASS-DOCUMENTATION
 
+##LITA CLASS
+
+[TOOLS USED](#tools-used)
+
+[CLASS TOPIC MICROSOFT EXCEL](#class-topic-microsoft-excel) 
+
+[CLASS OVERVIEW](#class-overview)
+
+[IMPORTANCE OF MICROSOFT EXCEL](#importance-of-microsoft-excel)
+
+
 ## TOOLS USED
 ---
 - MICROSOFT EXCEL[Download Here](https://www.microsoft.com)
@@ -30,7 +41,7 @@ The Microsoft Excel is a powerful tool used for organizing, analyzing, and visua
 The software offers various features such as data formatting for enhanced readability, sorting and filtering options for data organization, and the ability to create charts and graphs for visualization. Users can also leverage PivotTables to summarize large datasets, apply conditional formatting for automatic cell appearance changes based on certain criteria, and use data validation to ensure data integrity.
 Excel is widely used across industries for tasks like financial analysis, data management, project tracking, and reporting, thanks to its versatility and robust data manipulation capabilities.
 
-### IMPOTANCE OF MICROSOFT EXCEL
+### IMPORTANCE OF MICROSOFT EXCEL
 ---
 1. Data Organization: Excel allows users to efficiently organize large sets of data in rows and columns, making it easier to manage and analyze information.
 2. Data Analysis: With built-in functions and formulas, users can perform complex calculations, analyze trends, and generate insights from their data quickly.
@@ -40,7 +51,9 @@ Excel is widely used across industries for tasks like financial analysis, data m
 6. Versatility: It is used across various industries, including finance, marketing, education, and healthcare, for budgeting, forecasting, tracking, and reporting.
 7. Accessibility: Excel is widely used and can be accessed on different devices, making it a go-to tool for many professionals.
 
-  
+ |heading 1|heading 2|heading 3|
+ |---------|---------|---------|
+ |Table 1|Table 2|Table 3|
 
   
 
