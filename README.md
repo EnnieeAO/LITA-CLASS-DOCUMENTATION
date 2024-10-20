@@ -131,6 +131,7 @@ AutoFill: Excel’s AutoFill feature helps replicate formulas across a range of 
 
 ![EXCEL GITHUB 2](https://github.com/user-attachments/assets/d601f531-1322-4744-99f0-d374648de7e2)
 
+![EXCEL GITHUB 3](https://github.com/user-attachments/assets/423e98cd-e532-41ba-abdd-80a53788c3ad)
 
 
 
