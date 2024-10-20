@@ -14,6 +14,8 @@
 
 [SHORTCUTS USED IN MICROSOFT EXCEL](#shortcuts-used-in-microsoft-excel)
 
+[SQL SEQUENCE QUERY LANGUAGE](sql-sequence-query-language)
+
 
 ## TOOLS USED
 ---
@@ -125,8 +127,8 @@ AutoFill: Excel’s AutoFill feature helps replicate formulas across a range of 
 2. Ctrl + Z: Undo the last action.
 3. Ctrl + Y: Redo the last undone action.
 
-### D0CUMENTS WORKED ON 
-
+### D0CUMENTS WORKED ON
+---
 ![EXCEL GITHUB 1 (1)](https://github.com/user-attachments/assets/0637f82c-2e71-4cc3-a4ab-7b1fd885d3aa)
 
 ![EXCEL GITHUB 2](https://github.com/user-attachments/assets/d601f531-1322-4744-99f0-d374648de7e2)
@@ -152,7 +154,8 @@ AutoFill: Excel’s AutoFill feature helps replicate formulas across a range of 
 ![EXCEL GITHUB 12](https://github.com/user-attachments/assets/c93baf98-a62a-4b94-9811-cff228140c5f)
 
 
- 
+ ### SQL SEQUENCE QUERY LANGUAGE
+ ---
  
  
  |heading 1|heading 2|heading 3|
