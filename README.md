@@ -133,11 +133,28 @@ AutoFill: Excel’s AutoFill feature helps replicate formulas across a range of 
 
 ![EXCEL GITHUB 3](https://github.com/user-attachments/assets/423e98cd-e532-41ba-abdd-80a53788c3ad)
 
+![EXCEL GITHUB 4](https://github.com/user-attachments/assets/274bba9e-901e-40cd-be61-f38b573a511d)
+
+![EXCEL GITHUB 5](https://github.com/user-attachments/assets/ca6dbcbd-757e-401c-9a46-b53b030b82b4)
+
+![EXCEL GITHUB 6](https://github.com/user-attachments/assets/35f9d0ca-f8da-4a86-90fa-2da872245c20)
+
+![EXCEL GITHUB 7](https://github.com/user-attachments/assets/65ba29f4-022e-4487-9526-a4722727882d)
+
+![EXCEL GITHUB 8](https://github.com/user-attachments/assets/cfb0e4c0-496f-4b1e-83da-8c33b23975da)
+
+![EXCEL GITHUB 9](https://github.com/user-attachments/assets/6a278810-5f6e-42de-a116-8e6480520501)
+
+![EXCEL GITHUB 10](https://github.com/user-attachments/assets/7091ae98-dc96-4a09-a05f-a8283bb519c3)
+
+![EXCEL GITHUB 11](https://github.com/user-attachments/assets/1864ab36-fc93-4815-a47d-1401fdc1023b)
+
+![EXCEL GITHUB 12](https://github.com/user-attachments/assets/c93baf98-a62a-4b94-9811-cff228140c5f)
 
 
-
-
-
+ 
+ 
+ 
  |heading 1|heading 2|heading 3|
  |---------|---------|---------|
  |Table 1|Table 2|Table 3|
