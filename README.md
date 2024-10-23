@@ -16,6 +16,41 @@
 
 [SQL SEQUENCE QUERY LANGUAGE](sql-sequence-query-language)
 
+[Introduction to SQL](introduction-to-sql)
+
+[RULES OF SQL](rules-in-sql)
+
+[Databases](databases)
+
+[How Databases Store Data](how-databases-store-data)
+
+[ADVANTAGE OF SQL](advantage-of-sql)
+
+[Basic SQL Command](basic-sql-command)
+
+[SQL Data Types](sql-data-types)
+
+[SQL Keys](sql-keys)
+
+[SQL Operators](sql-operators)
+
+[SQL Clauses](sql-clauses)
+
+[SQL Aggregate Functions](sql-aggregate-functions)
+
+[SQL Joins](sql-joins)
+
+[SQL Set Operation](sql-set-operation)
+
+[View in SQL](view-in-sql)
+
+[SQL CASE WHEN STATEMENT](sql-case-when-statement)
+
+[Key Points](key-points)
+
+[DOCUMENTS WORKED ON](documents-worked-on)
+
+
 
 ## TOOLS USED
 ---
@@ -129,7 +164,7 @@ AutoFill: Excel’s AutoFill feature helps replicate formulas across a range of 
 
 ### D0CUMENTS WORKED ON
 ---
-![EXCEL GITHUB 1 (1)](https://github.com/user-attachments/assets/0637f82c-2e71-4cc3-a4ab-7b1fd885d3aa)
+![EXCEL GITHUB 1 (1)](https://github.com/user-attachments/assets/0637f82c-2e71-4cc3-a4ab-7b1fd885d3aa)  
 
 ![EXCEL GITHUB 2](https://github.com/user-attachments/assets/d601f531-1322-4744-99f0-d374648de7e2)
 
@@ -194,7 +229,6 @@ number.
 - But in  databases tables, all the data in a column must be of the same type.
 - This makes performing analysis on database tables pretty simples, while the data type must be consistent
 
-#### How Databases Store Data
  A few Key points about stored in SQL Databases
  1. Data in Databases is stored in tables that can be thought of just like  Excel spreadsheets.
  2. All the data in the same column must match in terms of data type.
@@ -262,14 +296,14 @@ DQL is used to fetch the data from the database. It uses only one command.
 -  Syntax: SELECT expressions FROM TABLES WHERE conditions; 
 Example: SELECT emp_name FROM employee WHERE age > 20
 
-###  SQL - Data Types 
+###  SQL Data Types 
 SQL Datatype is used to define the values that a column can contain.Every column is required to have a name and data type in the database table. 
 - String Datatype allow us to store a group of characters, enclosed in single quotes, in a record of a table column. These characters can be; numerals, letters, symbols etc. E.g: Char, Varchar, nchar, Varbinary, nvarchar
 - Numeric Datatype: are one of the most widely used data type in SQL. They are used to store numeric values only.  E.g,  Bit, tinyint, smallint, int, bigint, decimal, money, float,  real etc 
 - Date Datatype are used in SQL for values to be stored in date. E.g: Date, Datetime, Timestamp.
 - Binary Datatype E.g: Yes/No, True/False
 
-###  SQL  - Keys
+###  SQL Keys
 In SQL, Keys are special fields in a table that help;Create relationships between tables,Maintain uniqueness and Ensure data is consistent and valid.
 - Primary Key: A special type of key that uniquely identifies each record in a table. Each table can have only one primary key Example: Employee_id in the Employee table.
 - Foreign Key:A field in one table that uniquely identifies a row of another table, creating a relationship between the two tables.Example: Employee_id in the Salary table is a foreign key (FK) that references the Employee_id in the Employee table (PK)
@@ -387,11 +421,12 @@ If category_id is 1, it returns 'Electronics’;
  if 2, it returns 'Furniture’; 
 and so on.
 
-#### Key Points:
+#### Key Points
 - Flexibility: CASE can be used in SELECT, UPDATE, INSERT, and ORDER BY clauses, making it very versatile..
 - Readability:CASE statements can make your SQL queries more readable by replacing nested IF statements.
 - Efficiency: Even though CASE adds some complexity to your queries, it often improves efficiency by reducing the need for multiple queries or conditional logic in your application code
 
+#### DOCUMENTS WORKED ON
 
  |heading 1|heading 2|heading 3|
  |---------|---------|---------|
