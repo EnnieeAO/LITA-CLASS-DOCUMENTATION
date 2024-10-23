@@ -8,6 +8,8 @@
 
 [SQL SEQUENCE QUERY LANGUAGE](#sql-sequence-query-language)
 
+[GitHub](#github)
+
 [POWER BI](#power-bi)
 
 
@@ -386,8 +388,57 @@ and so on.
 - Readability:CASE statements can make your SQL queries more readable by replacing nested IF statements.
 - Efficiency: Even though CASE adds some complexity to your queries, it often improves efficiency by reducing the need for multiple queries or conditional logic in your application code
 
-#### DOCUMENTS WORKED ON IN SQL
+### DOCUMENTS WORKED ON IN SQL
 
+#### GitHub
+- INTRODUCTION
+GitHub is an invaluable tool for data analysts to effectively manage and collaborate on their portfolio projects.
+It is a cloud-based platform for version control and collaboration.
+
+#### MODULE OBJECTIVE
+- Portfolio Showcase:Host data analysis projects publicly for potential employers or clients to view.
+Demonstrate technical skills and problem-solving abilities.
+Showcase project outcomes and insights.
+- Collaboration Platform:Facilitate collaboration with other data analysts or developers.
+Receive feedback and contributions from the community.
+Contribute to open-source projects.
+- Project Management:Use GitHub's features (issues, pull requests, milestones) to manage project tasks and track progress.
+Collaborate on project planning and execution.
+By effectively utilizing Git and GitHub, data analysts can build robust and impressive
+portfolios that highlight their skills, experience, and contributions to the field.
+
+#### Creating a GitHub Account
+1. Step-by-Step Guide:
+- Visit github.com
+- Sign up for a free account
+-  Choose a username and password
+- Customize your profile (optional)
+
+#### Understanding Repositories
+  What is a Repository? A container for your project files.
+2. Creating a Repository:
+- Click the "+" button
+- Choose "New repository"
+- Give your repository a name and description
+- Initialize with a README file (optional)
+
+#### Adding Files to Your Repository
+Uploading Files:
+- Click the "Add file" button
+- Choose "Upload files"
+- Select the files you want to add
+- Creating Files:
+- Click the "Add file" button
+- Choose "Create new file"
+- Enter the file name and content
+
+#### Collaborating with Others
+- Pull Requests:
+- Create a pull request to suggest changes to someone else's repository
+- Review and merge pull requests
+- Issues:
+- Track bugs, tasks, and feature requests
+ 
 
 ### POWER BI
 - INTRODUCTION
