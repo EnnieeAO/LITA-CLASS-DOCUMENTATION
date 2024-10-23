@@ -8,49 +8,11 @@
 
 [CLASS OVERVIEW](#class-overview)
 
-[IMPORTANCE OF MICROSOFT EXCEL](#importance-of-microsoft-excel)
-
-[FUNCTIONS IN MICROSOFT EXCEL AND THEIR USES](#functions-in-microsoft-excel-and-their-uses)
-
-[SHORTCUTS USED IN MICROSOFT EXCEL](#shortcuts-used-in-microsoft-excel)
-
-[D0CUMENTS WORKED ON IN EXCEL](#documents-worked-on-in-excel)
-
 [SQL SEQUENCE QUERY LANGUAGE](#sql-sequence-query-language)
 
 [Introduction to SQL](#introduction-to-sql)
 
-[RULES OF SQL](#rules-of-sql)
-
-[Databases](#databases)
-
-[How Databases Store Data](#how-databases-store-data)
-
-[ADVANTAGE OF SQL](#advantage-of-sql)
-
-[Basic SQL Command](#basic-sql-command)
-
-[SQL Data Types](#sql-data-types)
-
-[SQL Keys](#sql-keys)
-
-[SQL Operators](#sql-operators)
-
-[SQL Clauses](#sql-clauses)
-
-[SQL Aggregate Functions](#sql-aggregate-functions)
-
-[SQL Joins](#sql-joins)
-
-[SQL Set Operation](#sql-set-operation)
-
-[View in SQL](#view-in-sql)
-
-[SQL CASE WHEN STATEMENT](#sql-case-when-statement)
-
-[Key Points](#key-points)
-
-[DOCUMENTS WORKED ON IN SQL](#documents-worked-on-in-sql)
+[POWER BI](#power-bi)
 
 
 
@@ -431,48 +393,90 @@ and so on.
 #### DOCUMENTS WORKED ON IN SQL
 
 
-POWER BI
-INTRODUCTION
-Power BI is a data visualization and business intelligence tool that converts data from different data sources to interactive dashboards and BI reports. It is acollection of software services, apps, and connectors that work together to turn your unrelated sources ofdata into coherent, visually immersive, and interactive insights
+### POWER BI
+- INTRODUCTION
+Power BI is a data visualization and business intelligence tool that converts data from different data sources to interactive dashboards and BI reports. It is acollection of software services, apps, and connectors that work together to turn your unrelated sources ofdata into coherent, visually immersive, and interactive insights.
 
+#### Power BI suite 
 Power BI suite provides multiple software,
-connectors, and services such as : –
-● Power BI desktop
-● Power BI service: This is based on SaaS
-● Power BI Mobile Apps: This is available for different platforms.
+connectors, and services such as :
+- Power BI desktop
+- Power BI service: This is based on SaaS
+- Power BI Mobile Apps: This is available for different platforms.
 Generally, these set of services are used by business users to
 consume data and build Business Intelligence reports
 
-Supported Operating Systems
-Windows 10, Windows 8, Windows 8.1, Windows Server 2008 R2,
-Windows Server 2012, Windows Server 2012 R2
-Microsoft Power BI Desktop requires Internet Explorer 9 or higher
-Microsoft Power BI Desktop is available for downloads in the following
-format;
+#### Supported Operating Systems
+Windows 10, Windows 8, Windows 8.1, Windows Server 2008 R2,Windows Server 2012, Windows Server 2012 R2
+Microsoft Power BI Desktop requires Internet Explorer 9 or higher ,Microsoft Power BI Desktop is available for downloads in the following format;
 32-bit (x86)
 64-bit (x64) platforms
-Please note, however, that the earlier the version of your Power BI, the
-better the services you stand to benefit, as newest versions comes with new
-product update for use
 
-COMPONENTS OF POWER BI
+#### COMPONENTS OF POWER BI
 Power BI includes the following components;
-❖ Power BI Desktop: This is used to create reports and data visualizations on
-the dataset.
-❖ Power BI Gateway − You can use Power BI on-premises gateway to keep
-your data fresh by connecting to your on-premises data sources without
-the need to move the data. It allows you to query large datasets and
-benefit from the existing investments
-❖ Power BI Mobile Apps: − Using Power BI mobile apps, you can stay
-connected to their data from anywhere. Power BI apps are available for
-Windows, iOS, and Android platforms.
-❖ Power BI Service − This is a cloud service and is used to publish Power BI
-reports and data visualizations.
+- Power BI Desktop: This is used to create reports and data visualizations on the dataset.
+- Power BI Gateway − You can use Power BI on-premises gateway to keep your data fresh by connecting to your on-premises data sources without the need to move the data. It allows you to query large datasets and benefit from the existing investments.
+- Power BI Mobile Apps: − Using Power BI mobile apps, you can stay connected to their data from anywhere. Power BI apps are available for Windows, iOS, and Android platforms.
+- Power BI Service − This is a cloud service and is used to publish Power BI reports and data visualizations.
 
+#### SUPPORTED DATA SOURCES
+Power BI supports a large range of data sources. You can click Get data and it shows you all the available data connections. It allows you to connect to different flat files, SQL database, and Azure cloud or even web platforms such as Facebook, Google Analytics, and Salesforce objects. It also includes an ODBC connection to connect to other ODBC data sources, which are not listed.
+Following are the available data sources in Power BI 
+- Flat Files
+- SQL Database
+- OData Feed
+- Blank Query
+- Azure Cloud platform
+- Online Services
+- Blank Query
+- Other data sources such as Hadoop, Exchange, or Active Directory
+To get data in Power BI desktop, you need to click the Get data option in the main screen.It shows you the most common data sources first. Then, click the More option to see a full list of available data.
 
+#### Power BI Comparison with Other BI Tools
+There are many Business Intelligence tools such as Tableau, Power BI and SSRS among others but a major competitive value as a result of market evaluation exist between Power BI and Tableau and some of this arguments will be highlighted below.
 
+#### Power BI - Data Modelling
+Data Modeling is one of the features used to connect multiple data sources in BI tool using a relationship. A relationship defines how data sources are connected with each
+other and you can create interesting data visualizations on multiple data sources.
+This allows businesses to define new metrics and to perform custom calculations for those metrics.
 
+#### Power BI – Environment
+- Data View
+When you go to the Data tab, you can see all the data as per the defined relationship from the data sources.
+- Relationship/ Model View
+In the Relationship tab, you can see the relationship between data sources. When you add multiple data sources to Power BI visualization, the tool automatically tries to detect the relationship between the columns. When you navigate to the Relationship tab, you can view the relationship. You can also create a relationship between
+the columns using the Create Relationships option.
 
+#### Power BI - Visualization Options
+- Creating Simple Visualizations
+Visualizations are used to effectively present your data and are the basic building blocks of any business intelligence tool. Power BI contains various default data
+visualization components that include simple bar charts to pie charts to maps, and also complex models such as waterfalls, funnels, gauges, and many other components.
+In Power BI, you can create visualization in two ways. First is by adding from the right side pane to Report Canvas. By default, it is the table type visualization, which is selected in Power BI. Another way is to drag the fields from right side bar to the axis and value axis under Visualization. You can add multiple fields to each axis as per the requirement.
+In Power BI, it is also possible to move your visualization on the reporting canvas by clicking and then dragging it. 
+- STEP 1: DEFINE QUESTIONS & GOALS
+- STEP 2: COLLECT DATA
+- STEP 3: DATA WRANGLING
+- STEP 4: DETERMINE ANALYSIS
+- STEP 5: INTERPRET RESULTS
+
+#### DAX FUNCTIONS
+DAX FUNCTIONS: DATA ANALYSIS EXPRESSIONS
+DAX functions play an important role in the usage of DAX for data modeling and reporting. It is an inbuilt function provided in the DAX language that helps you perform commonly used data calculations on the Data Model. DAX has additional functions that are designed to work with relational data and perform dynamic aggregation.
+DAX is a formula language and is a collection of functions, operators, and constants that can be used in a formula or expression to calculate and return one or more values. DAX is the formula language associated with the Data Model of Microsoft Excel Power Pivot and with Microsoft Power BI.
+However, it is a formula language that allows the users to define custom calculations in calculated columns and calculated fields (also known as measures).
+DAX helps you create new information from the existing data in your data model.
+
+- Excel Functions vs. DAX Functions
+Similarities Between Excel Functions and DAX Functions
+Certain DAX functions have the same name and the same general behavior as Excel functions.
+DAX has lookup functions that are similar to the array and vector lookup functions in Excel.
+Differences Between Excel Functions and DAX Functions DAX functions have been modified to take different types of inputs and some of the DAX functions might return a different data type. Hence, you need to understand the usage of these functions separately though they have the same name.
+You cannot use DAX functions in an Excel formula or use Excel functions in DAX formula, without the required modifications.
+Excel functions take a cell reference or a range of cells as a reference. DAX functions nevertake a cell reference or a range of cells as a reference, but instead take a column or table as a reference.
+Excel date and time functions return an integer that represents a date as a serial number.
+DAX date and time functions return a datetime data type that is in DAX but not in Excel
+
+#### DOCUMENTS WORKED ON POWER BI
 
  |heading 1|heading 2|heading 3|
  |---------|---------|---------|
