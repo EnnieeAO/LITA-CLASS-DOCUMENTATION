@@ -14,41 +14,41 @@
 
 [SHORTCUTS USED IN MICROSOFT EXCEL](#shortcuts-used-in-microsoft-excel)
 
-[SQL SEQUENCE QUERY LANGUAGE](sql-sequence-query-language)
+[SQL SEQUENCE QUERY LANGUAGE](#sql-sequence-query-language)
 
-[Introduction to SQL](introduction-to-sql)
+[Introduction to SQL](#introduction-to-sql)
 
-[RULES OF SQL](rules-in-sql)
+[RULES OF SQL](#rules-of-sql)
 
-[Databases](databases)
+[Databases](#databases)
 
-[How Databases Store Data](how-databases-store-data)
+[How Databases Store Data](#how-databases-store-data)
 
-[ADVANTAGE OF SQL](advantage-of-sql)
+[ADVANTAGE OF SQL](#advantage-of-sql)
 
-[Basic SQL Command](basic-sql-command)
+[Basic SQL Command](#basic-sql-command)
 
-[SQL Data Types](sql-data-types)
+[SQL Data Types](#sql-data-types)
 
-[SQL Keys](sql-keys)
+[SQL Keys](#sql-keys)
 
-[SQL Operators](sql-operators)
+[SQL Operators](#sql-operators)
 
-[SQL Clauses](sql-clauses)
+[SQL Clauses](#sql-clauses)
 
-[SQL Aggregate Functions](sql-aggregate-functions)
+[SQL Aggregate Functions](#sql-aggregate-functions)
 
-[SQL Joins](sql-joins)
+[SQL Joins](#sql-joins)
 
-[SQL Set Operation](sql-set-operation)
+[SQL Set Operation](#sql-set-operation)
 
-[View in SQL](view-in-sql)
+[View in SQL](#view-in-sql)
 
-[SQL CASE WHEN STATEMENT](sql-case-when-statement)
+[SQL CASE WHEN STATEMENT](#sql-case-when-statement)
 
-[Key Points](key-points)
+[Key Points](#key-points)
 
-[DOCUMENTS WORKED ON](documents-worked-on)
+[DOCUMENTS WORKED ON](#documents-worked-on)
 
 
 
