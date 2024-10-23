@@ -473,6 +473,24 @@ Excel date and time functions return an integer that represents a date as a seri
 DAX date and time functions return a datetime data type that is in DAX but not in Excel
 
 #### DOCUMENTS WORKED ON POWER BI
+![powerbi 11](https://github.com/user-attachments/assets/f7879f02-71b3-492a-9f4b-2e144f5ed8a2)
+
+![powerbi 22](https://github.com/user-attachments/assets/1c846844-7fda-43ab-92cb-d8c385f3d8e5)
+
+![powerbi 33](https://github.com/user-attachments/assets/b102b1c0-d222-40a3-9c8a-13b1077ffb82)
+
+![powerbi 44](https://github.com/user-attachments/assets/df8bf232-810a-4425-9514-1a9a43302534)
+
+![powerbi assignment 1](https://github.com/user-attachments/assets/b5ed5054-efc8-479e-919c-c62e50d55eef)
+
+![POWERBI ASSIGNMENT 2](https://github.com/user-attachments/assets/7945f684-3dc2-4144-b712-bd6bb501c684)
+
+![POWERI ASSIGNMENT 3](https://github.com/user-attachments/assets/adf6b8c4-cd3f-46b5-a50a-0cddbc18e427)
+
+
+
+
+
 
  |heading 1|heading 2|heading 3|
  |---------|---------|---------|
