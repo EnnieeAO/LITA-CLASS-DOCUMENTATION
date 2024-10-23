@@ -6,11 +6,7 @@
 
 [CLASS TOPIC MICROSOFT EXCEL](#class-topic-microsoft-excel) 
 
-[CLASS OVERVIEW](#class-overview)
-
 [SQL SEQUENCE QUERY LANGUAGE](#sql-sequence-query-language)
-
-[Introduction to SQL](#introduction-to-sql)
 
 [POWER BI](#power-bi)
 
