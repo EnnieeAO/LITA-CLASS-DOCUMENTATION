@@ -14,7 +14,7 @@
 
 [SHORTCUTS USED IN MICROSOFT EXCEL](#shortcuts-used-in-microsoft-excel)
 
-[D0CUMENTS WORKED ON](#documents-worked-on)
+[D0CUMENTS WORKED ON IN EXCEL](#documents-worked-on-in-excel)
 
 [SQL SEQUENCE QUERY LANGUAGE](#sql-sequence-query-language)
 
@@ -50,7 +50,7 @@
 
 [Key Points](#key-points)
 
-[DOCUMENTS WORKED ON](#documents-worked-on)
+[DOCUMENTS WORKED ON IN SQL](#documents-worked-on-in-sql)
 
 
 
@@ -164,7 +164,7 @@ AutoFill: Excel’s AutoFill feature helps replicate formulas across a range of 
 2. Ctrl + Z: Undo the last action.
 3. Ctrl + Y: Redo the last undone action.
 
-### D0CUMENTS WORKED ON
+### D0CUMENTS WORKED ON IN EXCEL
 ---
 ![EXCEL GITHUB 1 (1)](https://github.com/user-attachments/assets/0637f82c-2e71-4cc3-a4ab-7b1fd885d3aa)  
 
@@ -428,7 +428,51 @@ and so on.
 - Readability:CASE statements can make your SQL queries more readable by replacing nested IF statements.
 - Efficiency: Even though CASE adds some complexity to your queries, it often improves efficiency by reducing the need for multiple queries or conditional logic in your application code
 
-#### DOCUMENTS WORKED ON
+#### DOCUMENTS WORKED ON IN SQL
+
+
+POWER BI
+INTRODUCTION
+Power BI is a data visualization and business intelligence tool that converts data from different data sources to interactive dashboards and BI reports. It is acollection of software services, apps, and connectors that work together to turn your unrelated sources ofdata into coherent, visually immersive, and interactive insights
+
+Power BI suite provides multiple software,
+connectors, and services such as : –
+● Power BI desktop
+● Power BI service: This is based on SaaS
+● Power BI Mobile Apps: This is available for different platforms.
+Generally, these set of services are used by business users to
+consume data and build Business Intelligence reports
+
+Supported Operating Systems
+Windows 10, Windows 8, Windows 8.1, Windows Server 2008 R2,
+Windows Server 2012, Windows Server 2012 R2
+Microsoft Power BI Desktop requires Internet Explorer 9 or higher
+Microsoft Power BI Desktop is available for downloads in the following
+format;
+32-bit (x86)
+64-bit (x64) platforms
+Please note, however, that the earlier the version of your Power BI, the
+better the services you stand to benefit, as newest versions comes with new
+product update for use
+
+COMPONENTS OF POWER BI
+Power BI includes the following components;
+❖ Power BI Desktop: This is used to create reports and data visualizations on
+the dataset.
+❖ Power BI Gateway − You can use Power BI on-premises gateway to keep
+your data fresh by connecting to your on-premises data sources without
+the need to move the data. It allows you to query large datasets and
+benefit from the existing investments
+❖ Power BI Mobile Apps: − Using Power BI mobile apps, you can stay
+connected to their data from anywhere. Power BI apps are available for
+Windows, iOS, and Android platforms.
+❖ Power BI Service − This is a cloud service and is used to publish Power BI
+reports and data visualizations.
+
+
+
+
+
 
  |heading 1|heading 2|heading 3|
  |---------|---------|---------|
